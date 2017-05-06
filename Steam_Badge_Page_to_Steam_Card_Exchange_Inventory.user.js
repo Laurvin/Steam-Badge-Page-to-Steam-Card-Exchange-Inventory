@@ -5,7 +5,7 @@
 // @description Changes the Enhanced Steam link to the Steam Card Exchange to their Inventory page instead of their Showcase page.
 // @version 1.0
 // @icon http://i.imgur.com/XYzKXzK.png
-// @downloadURL 
+// @downloadURL https://github.com/Laurvin/Steam-Badge-Page-to-Steam-Card-Exchange-Inventory/raw/master/Steam_Badge_Page_to_Steam_Card_Exchange_Inventory.user.js
 // @include http://steamcommunity.com/id/*/gamecards/*
 // @include http://steamcommunity.com/profiles/*/gamecards/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
